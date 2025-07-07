@@ -35,6 +35,7 @@ SIGN-LANGUAGE-DETECTOR-PYTHON/
 ├── LICENSE
 ├── .gitignore
 ├── README.md
+```
 
 ---
 
