@@ -1,0 +1,40 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Python cache & metadata
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Dataset mentah dan file besar
+data/
+images/
+voice/
+
+# Dataset pickle
+data.pickle
+
+# Mac & Linux junk files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Backup files
+*~
+
+# Optional: ignore model jika tidak ingin upload model jadi ke repo
+# Uncomment baris di bawah jika TIDAK mau upload model.p
+# model.p
