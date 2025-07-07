@@ -23,6 +23,7 @@ Deteksi alfabet bahasa isyarat Amerika (ASL) secara real-time menggunakan Python
 ---
 
 ## 📁 Struktur Folder (rekomendasi)
+```markdown
 SIGN-LANGUAGE-DETECTOR-PYTHON/
 ├── collect_imgs.py
 ├── create_dataset.py
