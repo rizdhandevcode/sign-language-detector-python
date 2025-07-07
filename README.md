@@ -75,6 +75,13 @@ silahkan disesuaikan dengan keperluan
    pip install -r requirements.txt
 
 ## 🚀 Workflow Lengkap
+🔥 Mau langsung coba deteksi ASL?
+Kamu tidak perlu collect data dan train ulang model karena file model.p sudah disertakan.
+Langsung jalankan:
+```bash
+python asl_detector_fix.py
+```
+Catatan: Model ini baru mendukung huruf A, B, C, D, dan E.
 
 ### 1️⃣ Collect Data
 Jalankan untuk mengumpulkan dataset gesture dari webcam:
